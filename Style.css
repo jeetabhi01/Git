@@ -1,0 +1,9 @@
+#id hello{
+	text-transform:lowercase;
+}
+p{
+	font-family:monospace;
+	text-transform:uppercase;
+	font-size:large,;
+	}
+
